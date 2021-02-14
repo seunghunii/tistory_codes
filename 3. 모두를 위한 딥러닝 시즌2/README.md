@@ -4,3 +4,4 @@
 2. [Lab02 - Simple Linear Regression LAB](https://seunghuni96.tistory.com/85)
 3. [Lab03 - Linear Regression and How to minimize cost LAB](https://seunghuni96.tistory.com/86?category=978166)
 4. [Lab04 - Multi Variable Linear Regression LAB](https://seunghuni96.tistory.com/87)
+5. [Lab05 - Logistic Regression](https://seunghuni96.tistory.com/88)
