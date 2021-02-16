@@ -8,3 +8,5 @@
 5. [Lab05 - Logistic Regression](https://seunghuni96.tistory.com/88)
 6. [Lab06 - Softmax(1)](https://seunghuni96.tistory.com/89)
 7. [Lab06 - Softmax(2)](https://seunghuni96.tistory.com/89)
+8. [Lab07 - Application and Tips(1)](https://seunghuni96.tistory.com/90)
+9. [Lab07 - Application and Tips(2)](https://seunghuni96.tistory.com/90)
