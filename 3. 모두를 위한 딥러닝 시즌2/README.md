@@ -13,3 +13,4 @@
 10. [Lab09 - XOR with Neural Nets(1)](https://seunghuni96.tistory.com/96)
 11. [Lab09 - XOR with Neural Nets(2)](https://seunghuni96.tistory.com/96)
 12. [Lab09 - XOR with Neural Nets(3)](https://seunghuni96.tistory.com/96)
+13. [Lab09 - XOR with Neural Nets(4)](https://seunghuni96.tistory.com/96)
