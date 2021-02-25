@@ -16,3 +16,5 @@
 13. [Lab09 - XOR with Neural Nets(4)](https://seunghuni96.tistory.com/96)
 14. [Lab10 - mnist_nn(1.softmax)](https://seunghuni96.tistory.com/101)
 15. [Lab10 - mnist_nn(2.relu)](https://seunghuni96.tistory.com/101)
+16. [Lab10 - mnist_nn(3.xavier)](https://seunghuni96.tistory.com/101)
+17. [Lab10 - mnist_nn(4.deep)](https://seunghuni96.tistory.com/101)
