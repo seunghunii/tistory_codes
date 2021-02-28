@@ -18,3 +18,5 @@
 15. [Lab10 - mnist_nn(2.relu)](https://seunghuni96.tistory.com/101)
 16. [Lab10 - mnist_nn(3.xavier)](https://seunghuni96.tistory.com/101)
 17. [Lab10 - mnist_nn(4.deep)](https://seunghuni96.tistory.com/101)
+18. [Lab11 - CNN basic(1.convolution)](https://seunghuni96.tistory.com/102)
+19. [Lab11 - CNN basic(2.pooling)](https://seunghuni96.tistory.com/102)
